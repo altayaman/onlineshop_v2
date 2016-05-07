@@ -1,0 +1,4 @@
+Note:  Use the following URL to post a student
+    http://localhost:8080/zuniversity/webservices/studrestapp/customer/2
+
+{"customerId":2,"customerFirstName":"John","customerEmail":"john.smith@gmail.com","customerLastName":"Smith"}

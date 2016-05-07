@@ -1,0 +1,11 @@
+Use the following URL to retrieve customer with id 2  (use GET)
+    http://localhost:8080/zuniversity/webservices/studrestapp/customer/2
+
+Use the following URL to post a customer  (use POST -- data must be in request body)
+    http://localhost:8080/zuniversity/webservices/studrestapp/customer
+    
+Use the following URL to retrieve a list of all customers (use GET)
+    http://localhost:8080/zuniversity/webservices/studrestapp/customer
+    
+Use the following URL to delete customer with id 2  (use DELETE)
+    http://localhost:8080/zuniversity/webservices/studrestapp/customer/4
